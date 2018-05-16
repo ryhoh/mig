@@ -1,0 +1,29 @@
+.table {
+ width:100%;
+ display:table;
+}
+
+body {
+	color: #ffffff;
+	background-color: #eeeeee;
+}
+
+div.main {
+	display:table-cell;
+	vertical-align: middle;
+	background-color: #333333;
+	width: 480px;
+	height: 320px;
+}
+
+div {
+	text-align: center;
+}
+
+div.date {
+	font-size: 240%;
+}
+
+div.time {
+	font-size: 450%;
+}
